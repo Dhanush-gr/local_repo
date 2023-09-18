@@ -1,0 +1,39 @@
+[33mcommit cfef46bebb1702219c0ff9c053ea2fe551022a10[m[33m ([m[1;36mHEAD -> [m[1;32mfeature1[m[33m)[m
+Merge: 31694b4 cc456f7
+Author: Dhanush-gr <dhanush_r@trigent.com>
+Date:   Mon Sep 18 11:28:32 2023 +0530
+
+    extra message
+
+[33mcommit 31694b4333a289a92124de56c5924b846e327d1d[m
+Author: Dhanush-gr <dhanush_r@trigent.com>
+Date:   Mon Sep 18 11:20:22 2023 +0530
+
+    add extra-1 feature
+
+[33mcommit cc456f76218d3ba9202590e45a3d8f9eac03649c[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Dhanush-gr <dhanush_r@trigent.com>
+Date:   Mon Sep 18 11:17:57 2023 +0530
+
+    add extra message
+
+[33mcommit 6a86c6fe145112d602115a00792fe68dbd4c4ca0[m
+Merge: 90bd749 a936433
+Author: Dhanush-gr <144654595+Dhanush-gr@users.noreply.github.com>
+Date:   Mon Sep 18 10:53:34 2023 +0530
+
+    Merge pull request #1 from Dhanush-gr/feature1
+    
+    add new feature
+
+[33mcommit a9364333f1ca44727562b1b2c8d1bced928f497b[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: Dhanush-gr <dhanush_r@trigent.com>
+Date:   Mon Sep 18 10:29:14 2023 +0530
+
+    add new feature
+
+[33mcommit 90bd749c5ae783f8f007451a380fb4db6bc242f7[m[33m ([m[1;32mcheckout[m[33m)[m
+Author: Dhanush-gr <dhanush_r@trigent.com>
+Date:   Mon Sep 18 09:13:20 2023 +0530
+
+    add python file
