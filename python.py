@@ -1,2 +1,2 @@
 name = input('enter :')
-print(name[::-1])
+print('name in rev',name[::-1])
